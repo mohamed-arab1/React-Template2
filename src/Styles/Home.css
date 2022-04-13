@@ -1,0 +1,7 @@
+.home{
+    background-image: url("../photos/intro.svg");
+    background-attachment: fixed;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
